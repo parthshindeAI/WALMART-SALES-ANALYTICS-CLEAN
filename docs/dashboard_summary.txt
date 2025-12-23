@@ -1,0 +1,15 @@
+1️⃣ Executive Summary (3–4 sentences)
+Walmart generated $160.3M in total sales, with an average weekly sales value of ~$16.0K per record, indicating stable baseline demand across the network. Store 10 significantly outperformed peers with $7.72M in sales, while Store 33 underperformed, signaling execution or demand-side issues. Sales show a strong seasonal spike in Q4, peaking in December 2010, followed by softer volatility through 2011–2012. Overall performance is solid, but inconsistency across stores and months limits full upside.
+
+2️⃣ Key Insights (3)
+1. Seasonality is a major revenue driver: Consistent sales spikes in November–December indicate strong holiday dependence and predictable demand surges.
+2. Store-level performance gap is wide: The top-performing store materially outpaces the weakest, pointing to uneven operational efficiency or local demand capture.
+3. Post-peak volatility persists: After seasonal highs, sales fail to stabilize at elevated levels, suggesting missed retention or post-holiday conversion opportunities.
+
+3️⃣ Risks (2)
+1. Over-reliance on seasonal revenue increases exposure to demand shocks during non-peak months.
+2. Underperforming stores drag network efficiency, diluting gains from high-performing locations.
+
+4️⃣ Recommended Actions (2)
+1. Replicate Store 10 best practices (inventory mix, staffing, promotions) across mid- and low-performing stores to lift baseline performance.
+2. Introduce targeted off-season promotions and localized demand strategies to smooth revenue volatility and reduce dependence on Q4 spikes.
